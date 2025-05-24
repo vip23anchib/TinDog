@@ -23,13 +23,9 @@ Tindog is a fun and responsive **frontend website** inspired by Tinder — but f
 
 ## 📸 Preview
 
-*(Insert screenshot or GIF here if available)*
-
----
-
-
----
-
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ## 🔧 How to Run
 
 1. Clone the repo or download the files.
