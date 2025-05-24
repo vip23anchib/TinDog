@@ -2,7 +2,7 @@
 
 Tindog is a fun and responsive **frontend website** inspired by Tinder — but for dogs! Built from scratch using **HTML, CSS, and Bootstrap**, it allows dog lovers to explore nearby pups, choose from flexible plans, and celebrate doggy connections in a cute and engaging way.
 
----
+
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@ Tindog is a fun and responsive **frontend website** inspired by Tinder — but f
 - 💎 **Flexible Plans:** Three pricing options — **Basic**, **Standard**, and **Premium** — displayed through clean, attractive cards.
 - 📱 **Responsive Design:** Looks great on desktops, tablets, and smartphones.
 
----
+
 
 ## 🛠️ Built With
 
